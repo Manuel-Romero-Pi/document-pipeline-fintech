@@ -68,14 +68,6 @@ python run_document_pipeline.py
 python clear_index.py
 ```
 
-## Características
-
-- **Extracción con layout-markdown**: Preserva la estructura visual de los documentos
-- **Chunking inteligente**: Mantiene tablas y relaciones contextuales
-- **Procesamiento por lotes**: Optimizado para documentos grandes
-- **Logging detallado**: Seguimiento completo del proceso
-- **Manejo de errores**: Recuperación robusta ante fallos
-
 ## Notas
 
 - Se requiere acceso a servicios de Azure (Document Intelligence y Cognitive Search)
